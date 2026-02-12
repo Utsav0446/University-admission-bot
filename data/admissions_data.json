@@ -1,0 +1,24 @@
+{
+  "MS Computer Science": {
+    "eligibility": "Bachelor's degree in Computer Science or related field with minimum GPA 3.0",
+    "documents": [
+      "Academic Transcripts",
+      "Statement of Purpose",
+      "Letters of Recommendation",
+      "Resume",
+      "English Proficiency Test Scores"
+    ],
+    "deadline": "December 15"
+  },
+  "MBA": {
+    "eligibility": "Bachelor's degree in any discipline with minimum GPA 2.8",
+    "documents": [
+      "Academic Transcripts",
+      "Statement of Purpose",
+      "Letters of Recommendation",
+      "Resume",
+      "GMAT Score"
+    ],
+    "deadline": "January 10"
+  }
+}
